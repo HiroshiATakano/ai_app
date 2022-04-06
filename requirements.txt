@@ -1,0 +1,6 @@
+pandas
+jctconv
+emoji
+scikit-learn==0.22
+django==2.2
+gunicorn
